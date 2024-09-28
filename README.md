@@ -1,6 +1,6 @@
 👋 Hi, I’m @ailbheyasmin!
 
-I recently graduated with my Masters in Environmental Planning program from UC Berkeley! 🐻
+I recently graduated with my Masters in Environmental Planning and GIS from UC Berkeley! 🐻
 
 I love learning and self-taught myself SQL and Python 🐍
 
