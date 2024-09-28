@@ -1,8 +1,10 @@
 👋 Hi, I’m @ailbheyasmin!
 
-I am a recent graduate from the Masters in Environmental Planning program at UC Berkeley, where I discovered my love of remote sensing.
+I recently graduated with my Masters in Environmental Planning program from UC Berkeley! 🐻
 
-Here, you will find personal and professional proejects I am working on while building my skills in geospatial data science and visualization!
+I love learning and self-taught myself SQL and Python 🐍
+
+I am always working on improving my skills in geospatial data science and visualization!
 
 <!---
 ailbheyasmin/ailbheyasmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
