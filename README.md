@@ -2,7 +2,7 @@
 
 I recently graduated with my Masters in Environmental Planning and GIS from UC Berkeley! 🐻
 
-I love learning and self-taught myself SQL and Python 🐍
+I love learning and teaching Python 🐍
 
 I am always working on improving my skills in geospatial data science and visualization!
 
