@@ -8,6 +8,8 @@ generation for clients including ESB Networks and Irish Rail, among others
 I started my programming journey with JavaScript, SQL, Arcade, and Python back in 2022, while completing my Masters in Environmental Planning 
 and GIST from UC Berkeley 🐻
 
+View my LinkedIn here (https://www.linkedin.com/in/ailbhewallis/), or feel free to send me an email at ailbheyasmin@gmail.com regarding any geospatial queries
+
 <!---
 ailbheyasmin/ailbheyasmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
